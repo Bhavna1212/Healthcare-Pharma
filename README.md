@@ -1,6 +1,6 @@
 # Healthcare-Pharma
 Real World Healthcare/Pharma Case Studies: Data Analytics Using R
-Pima_diabetes is a dataset containing diabetes status and other health-related variables for 768 females, at least 21 years old, of Pima Indian heritage. As pointed out (see source URL below), the source data had some biologically impossible zero values. We have replaced zero values in every variable except Pregnancies with NA.
+Pima_diabetes is a dataset containing diabetes status and other health-related variables for 768 females, at least 21 years old, of Pima Indian heritage. The source data had some biologically impossible zero values. We have replaced zero values in every variable except Pregnancies with NA.
 A tibble data frame with 768 rows and 10 variables:
 1.	patient_id- Unique identifier
 2.	pregnancies -Number of times pregnant
